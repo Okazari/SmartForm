@@ -1,0 +1,1 @@
+export { default as ReactSmartForm } from './ReactSmartForm'
